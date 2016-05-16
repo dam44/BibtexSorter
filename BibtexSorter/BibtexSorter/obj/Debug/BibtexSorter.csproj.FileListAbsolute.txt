@@ -1,0 +1,8 @@
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\BibtexSorter\BibtexSorter\bin\Debug\BibtexSorter.exe.config
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\BibtexSorter\BibtexSorter\bin\Debug\BibtexSorter.exe
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\BibtexSorter\BibtexSorter\bin\Debug\BibtexSorter.pdb
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\BibtexSorter\BibtexSorter\obj\Debug\BibtexSorter.MainForm.resources
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\BibtexSorter\BibtexSorter\obj\Debug\BibtexSorter.Properties.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\BibtexSorter\BibtexSorter\obj\Debug\BibtexSorter.csproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\BibtexSorter\BibtexSorter\obj\Debug\BibtexSorter.exe
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\BibtexSorter\BibtexSorter\obj\Debug\BibtexSorter.pdb
